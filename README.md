@@ -1,2 +1,6 @@
-# English-Vocabulary
-Materials for English Vocabulary
+# 🌿 Vocabulary
+
+
+|No.|Word List|Links|Assts.|
+|-----------|-----------|-----------|-----------|
+|1||🌀[2020 Highschool Voca](https://github.com/jmyoon7442/English-Vocabulary/blob/main/2020%20VOCA/Readme.md)|-|
