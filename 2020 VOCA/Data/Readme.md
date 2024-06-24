@@ -9,3 +9,4 @@
 |5| interpretation | Interpretation of example sentences |
 
 + Be sure to **lowercase** the title of each column
++ [Word List Form] (https://github.com/jmyoon7442/English-Vocabulary/blob/main/word-audio-app%20%EB%8B%A8%EC%96%B4%20Form.xlsx?raw=true)
