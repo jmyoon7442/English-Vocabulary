@@ -1,5 +1,9 @@
 # 🌿 English Vocabulary
 
+## Word-Audio Learning App(WALA)
++ #### How to custom your own WALA?
+  + 📎 [Code](https://github.com/jmyoon7442/English-Vocabulary/blob/main/WALA/Word_Audio_Learning_App(Demo).ipynb)
+  + 📎 [Data](https://github.com/jmyoon7442/English-Vocabulary/blob/main/2020%20VOCA/Data/Readme.md)
 
 |No.|Word List|Links|Assts.|
 |-----------|-----------|-----------|-----------|
