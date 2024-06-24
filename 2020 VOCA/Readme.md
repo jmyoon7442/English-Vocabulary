@@ -2,5 +2,5 @@
 
 
 |Day|date|Code page|Assts.|
-|--|--|--|--|
-|W01|Mar.5|🌀[DAY1](https://Jay7442-2020-VACA-Day1.hf.space)|-|
+|-----|-----|-----|-----|
+|Day 1|June 24|🌀[DAY1](https://Jay7442-2020-VACA-Day1.hf.space)|-|
